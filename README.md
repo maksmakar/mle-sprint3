@@ -1,4 +1,3 @@
-.
 ├── app
 │   ├── churn_app.py
 │   ├── fast_api_handler.py
