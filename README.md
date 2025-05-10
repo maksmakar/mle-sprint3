@@ -1,3 +1,5 @@
+```
+project/
 ├── app
 │   ├── churn_app.py
 │   ├── fast_api_handler.py
@@ -8,3 +10,4 @@
 │   └── catboost_credit_model.bin
 ├── README.md
 └── requirements.txt 
+```
